@@ -42,7 +42,6 @@ All logic is implemented using plain JavaScript (ES6+).
 ## Technologies Used
 
 - HTML5
-- CSS3
 - JavaScript (ES6+)
 - Git & GitHub
 
