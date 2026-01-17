@@ -23,6 +23,8 @@ btn.addEventListener("click", (event) => {
     listItem.appendChild(span);
     listItem.appendChild(button);
     ul.appendChild(listItem);
+
+    text.focus();
 });
 
 
